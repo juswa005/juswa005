@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Amiel Josh Basug
 
 🎓 Computer Engineering Student  
-🔧 Embedded Systems • Arduino • ESP32
-🪪 Aspiring Cybersecurity Practitioner (i guess)
+🔧 Embedded Systems • Arduino • ESP32  
+🪪 Aspiring Cybersecurity Practitioner (i guess)  
 🐧 "I use ARCH, btw" 😂  
 💻 Loves building electronics + software hybrid projects
 
