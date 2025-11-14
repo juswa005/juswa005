@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 **Languages:** C/C++, Python, html, C#, xaml  
-**Hardware & IoT:** Arduino, ESP32 
+**Hardware & IoT:** Arduino, ESP32   
 **Software Development:** WPF, WinForms  
 **Tools:** Git, Linux, Bash, KiCad, VS Code, PlatformIO, Arduino IDE  
 
