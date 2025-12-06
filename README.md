@@ -6,7 +6,7 @@
 
 # 💫 About Me
 - 🎓 Computer Engineering Student  
-- 🔧 Loves working with **Embedded Systems** (Arduino, ESP32, sensors, RFIDs)  
+- 🔧 Loves working with **Embedded Systems**  
 - 🛡️ Slowly entering the **Cybersecurity** world  
 - 🐧 Yes... **I use Arch, btw.**  
 - ⚡ I enjoy building electronics–software crossover projects  
