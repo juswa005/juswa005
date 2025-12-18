@@ -5,28 +5,11 @@
 ---
 
 # 💫 About Me
- 🎓 Computer Engineering Student  
  🔧 Loves working with **Embedded Systems**  
  🛡️ Slowly entering the **Cybersecurity** world  
  🐧 Yes... **I use Arch, btw.**  
  ⚡ I enjoy building electronics–software crossover projects  
 
----
-
-## 🌐 Connect With Me
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.facebook.com/@amieljoshh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="56"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amieljoshbasug" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="56"/>
-  </a>
-  <a href="mailto:amieljosh05@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="56"/>
-  </a>
-</p>
 
 ---
 
