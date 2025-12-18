@@ -62,9 +62,9 @@
 ---
 
 # 📊 GitHub Stats
-<p align="center">
-  
-[![roadmap.sh](https://roadmap.sh/card/wide/694288c8a556726c25a3ba04?variant=dark&roadmaps=linux%2Cgit-github%2Ccyber-security%2Ccpp)](https://roadmap.sh)
+<p align="center">  
+ 
+[![roadmap.sh](https://roadmap.sh/card/wide/694288c8a556726c25a3ba04?variant=dark)](https://roadmap.sh)
 <img src="https://nirzak-streak-stats.vercel.app/?user=juswa005&theme=dark&hide_border=false"/>
 </p>
 </div>
