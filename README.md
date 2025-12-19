@@ -37,7 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="56"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="56"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="56"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="56"/><br>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="56" /> <br>
 
 
 </p>
@@ -46,8 +46,9 @@
 
 # 📊 GitHub Stats
 <p align="center">  
+<img src="https://nirzak-streak-stats.vercel.app/?user=juswa005&theme=dark&hide_border=false"/>  
  
 [![roadmap.sh](https://roadmap.sh/card/wide/694288c8a556726c25a3ba04?variant=dark)](https://roadmap.sh)
-<img src="https://nirzak-streak-stats.vercel.app/?user=juswa005&theme=dark&hide_border=false"/>
+
 </p>
 </div>
