@@ -17,7 +17,7 @@ juswa005@github
 🔬 Build → break → debug → repeat
 💻 Languages: C / C++ / C# / Python / html / xaml
 🔌 Microcontrollers, sensors, displays
-🧠 Curious about system internals & how things *actually* work
+🧠 Curious about system internals & how things **actually** work
 🧪 Hands-on with debugging, testing, and prototyping
 🛠️ Enjoys CLI tools, minimal setups, and automation
 🚀 Always learning, always iterating
