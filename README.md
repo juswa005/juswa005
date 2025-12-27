@@ -1,24 +1,10 @@
-```console
-juswa005@github:~$ ./welcome.sh
-```
+<table border="0" align="center">
+<tr>
+<td width="35%" valign="middle" align="center">
+<img align="left" src="gifs/coding.gif" alt="I guess the gif was taken down :<" width="350" /> 
+<br>
 
-```
-[BOOT] Initializing system...
-[ OK ] CPU: online
-[ OK ] SRAM: detected
-[ OK ] GPIO: configured
-[ OK ] I2C / SPI buses ready
-[ OK ] UART initialized @115200 baud
-[ OK ] Toolchain loaded
-[WARN] Datasheet reading required
-
-System ready.
-
-Welcome to Amiel's GitHub.
-
-```
-
-<img align="left" src="gifs/coding.gif" alt="I guess the gif was taken down :<" width="450" /> 
+<td width="65%" valign="middle">
 
 ```
 juswa005@github
@@ -32,28 +18,48 @@ juswa005@github
 💻 Languages: C / C++ / C# / Python / html / xaml
 🔌 Microcontrollers, sensors, displays
 🧠 Curious about system internals & how things *actually* work
-📐 Comfortable reading schematics and datasheets
 🧪 Hands-on with debugging, testing, and prototyping
 🛠️ Enjoys CLI tools, minimal setups, and automation
 🚀 Always learning, always iterating
 ```
 
+</td>
+</tr>
+</table>
+
+
 <p align="center">
 <!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="27"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="27"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25"/>
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="25"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="30"/>
 </p>
+
+
+
+<table border="0" align="center">
+<tr>
+<td width="65%" valign="middle" align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=juswa005&theme=dark)
+
+<br>
+
+<td width="35%" valign="middle">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanIwZmF4dnE4bmxrN3Z1cXBjb2QwYXg1MHhteGd6bHV5YXo4bzA0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MQZOpkiAG6cVFHU6Zg/giphy.gif" alt="i guess its gone" width="250" >
+
+</td>
+</tr>
+</table>
