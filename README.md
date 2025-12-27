@@ -53,7 +53,7 @@ juswa005@github
 <tr>
 <td width="65%" valign="middle" align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=juswa005&theme=light)
+![GitHub Streak](https://streak-stats.demolab.com/?user=juswa005&theme=dark)
 
 <br>
 
