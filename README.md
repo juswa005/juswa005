@@ -58,7 +58,7 @@ juswa005@github
 <br>
 
 <td width="35%" valign="middle">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanIwZmF4dnE4bmxrN3Z1cXBjb2QwYXg1MHhteGd6bHV5YXo4bzA0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MQZOpkiAG6cVFHU6Zg/giphy.gif" alt="i guess its gone" width="250" >
+<img src="gifs/sleepy1.gif" alt="i guess its gone" width="250" >
 
 </td>
 </tr>
