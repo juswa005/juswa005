@@ -1,7 +1,7 @@
 <table border="0" align="center">
 <tr>
 <td width="35%" valign="middle" align="center">
-<img align="left" src="gifs/coding.gif" alt="I guess the gif was taken down :<" width="350" /> 
+<img align="left" src="gifs/coding.gif" alt="I guess the gif was taken down :<" width="300" /> 
 <br>
 
 <td width="65%" valign="middle">
