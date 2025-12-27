@@ -47,7 +47,9 @@ juswa005@github
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="30"/>
 </p>
 
-
+<p align="center">
+  <img src="gifs/github-user-contribution.svg" width="600" />
+</p>
 
 <table border="0" align="center">
 <tr>
@@ -63,3 +65,6 @@ juswa005@github
 </td>
 </tr>
 </table>
+
+
+
