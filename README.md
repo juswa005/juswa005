@@ -58,7 +58,7 @@ juswa005@github
 <br>
 
 <td width="35%" valign="middle">
-<img src="gifs/sleepy1.gif" alt="i guess its gone" width="250" >
+<img src="gifs/sleepy1.gif" alt="i guess its gone" width="200" >
 
 </td>
 </tr>
