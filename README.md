@@ -9,7 +9,7 @@
 ```
 juswa005@github
 -------------------------
-🏫 Computer Engineering student
+🏫 Computer Engineering student @USLT
 🔧 Embedded systems & hardware–software integration
 🛡️ Learning cybersecurity
 🐧 Linux daily driver (Arch, btw)
