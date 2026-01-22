@@ -49,22 +49,23 @@ juswa005@github
 
 <p align="center">
   <img src="gifs/github-user-contribution.svg" width="600" />
+  
 </p>
 
-<table border="0" align="center">
-<tr>
-<td width="65%" valign="middle" align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=juswa005&theme=dark)
 
-<br>
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=juswa005&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=juswa005&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=juswa005&layout=compact&theme=react" alt="MatinT-SA github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=juswa005&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
+</div>
 
-<td width="35%" valign="middle">
-<img src="gifs/sleepy1.gif" alt="i guess its gone" width="220" >
+<br />
 
-</td>
-</tr>
-</table>
+---
 
 
 
