@@ -55,7 +55,7 @@ juswa005@github
 
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=juswa005&theme=react" width="50%" />
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=juswa005&layout=compact&theme=react" alt="juswa005's github readme top-langs" width="41%" />
+  
 </div>
 <br />
 <div>
