@@ -61,7 +61,7 @@ juswa005@github
 <br />
 <div>
   <img align="center" src="gifs/sleepy1.gif" alt="Amiels github readme top-langs" width="30%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=juswa005&theme=merko" alt="Amiel's github readme activity graph" width="60%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=juswa005&show_icons=true&theme=react" alt="Amiel's github stats" width="60%" />
 </div>
 
 <br />
